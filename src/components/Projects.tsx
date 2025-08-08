@@ -28,16 +28,16 @@ const Projects = () => {
       demo: "",
       featured: true,
     },
-    {
-      title: "Website Portofolio",
-      description:
-        "Website portofolio pribadi yang dibangun untuk menampilkan keahlian dan proyek yang telah dikerjakan.",
-      image: portfolioImg,
-      technologies: ["React.js", "Tailwind CSS", "Vite"],
-      github: "https://github.com/adisetyow/Portofolio.git",
-      demo: "",
-      featured: false,
-    },
+    // {
+    //   title: "Website Portofolio",
+    //   description:
+    //     "Website portofolio pribadi yang dibangun untuk menampilkan keahlian dan proyek yang telah dikerjakan.",
+    //   image: portfolioImg,
+    //   technologies: ["React.js", "Tailwind CSS", "Vite"],
+    //   github: "https://github.com/adisetyow/Portofolio.git",
+    //   demo: "",
+    //   featured: false,
+    // },
     {
       title: "Sistem Manajemen Inventaris Desa",
       description:
