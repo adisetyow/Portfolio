@@ -5,7 +5,7 @@ const About = () => {
   const highlights = [
     {
       icon: <GraduationCap className="w-6 h-6" />,
-      title: "Prestasi Akademik",
+      title: "Pendidikan Akademik",
       description:
         "Fokus pada Rekayasa Perangkat Lunak selama studi Teknik Informatika.",
     },
@@ -40,8 +40,9 @@ const About = () => {
             </span>
           </h2>
           <p className="text-xl text-gray-400 max-w-3xl mx-auto">
-            Kenali saya lebih jauh, latar belakang saya, dan apa yang mendorong
-            semangat saya dalam Software Engineering.
+            Perjalanan saya dalam rekayasa perangkat lunak didorong oleh
+            semangat untuk menciptakan solusi inovatif yang membawa dampak
+            positif.
           </p>
         </div>
 

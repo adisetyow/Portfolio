@@ -17,6 +17,7 @@ const Skills = () => {
       skills: [
         { name: "React.js", level: 58 },
         { name: "Vue.js", level: 45 },
+        { name: "Flutter", level: 35 },
         { name: "HTML/CSS", level: 62 },
         { name: "Tailwind CSS", level: 55 },
         { name: "Desain Responsif", level: 50 },
@@ -27,9 +28,10 @@ const Skills = () => {
       skills: [
         { name: "Node.js", level: 52 },
         { name: "Express.js", level: 50 },
-        { name: "Django", level: 25 },
+        { name: "Laravel", level: 68 },
+        { name: "Django", level: 15 },
         { name: "REST APIs", level: 45 },
-        { name: "GraphQL", level: 20 },
+        { name: "GraphQL", level: 10 },
       ],
     },
     {
@@ -102,9 +104,6 @@ const Skills = () => {
           </h3>
           <div className="flex flex-wrap justify-center gap-4">
             {[
-              "Agile/Scrum",
-              "DevOps",
-              "CI/CD",
               "Arsitektur Microservices",
               "Machine Learning",
               "Struktur Data",

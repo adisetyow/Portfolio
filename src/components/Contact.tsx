@@ -74,7 +74,7 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6" />,
       title: "Lokasi",
-      value: "Salatiga, Jawa Tengah",
+      value: "Kabupaten Semarang, Jawa Tengah",
       link: "https://maps.app.goo.gl/kQF6ssCoaCrR3kpW9",
     },
   ];
