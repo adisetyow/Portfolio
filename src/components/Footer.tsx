@@ -53,7 +53,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-green-400 rounded-full mr-3 animate-pulse"></div>
-                <span className="text-gray-400">Tersedia untuk magang</span>
+                <span className="text-gray-400">Tersedia untuk berkerja</span>
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-purple-400 rounded-full mr-3"></div>
@@ -71,7 +71,7 @@ const Footer = () => {
         <div className="mt-12 pt-8 border-t border-gray-800">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center text-gray-400 mb-4 md:mb-0">
-              <span>Dibuat oleh</span>
+              <span>Created by</span>
               <Heart className="w-4 h-4 mx-2 text-red-500" />
               <span>Adi Setyo Wenang</span>
             </div>
