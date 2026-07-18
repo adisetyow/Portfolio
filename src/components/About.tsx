@@ -50,8 +50,8 @@ const About = () => {
           <div className="space-y-6 animate-slide-in-left">
             <div className="prose prose-lg text-gray-300">
               <p className="text-lg leading-relaxed">
-                Mahasiswa Teknik Informatika yang berdedikasi dan bersemangat
-                dalam menciptakan solusi perangkat lunak yang{" "}
+                Fresh graduate Teknik Informatika yang berdedikasi dan
+                bersemangat dalam menciptakan solusi perangkat lunak yang{" "}
                 <strong className="text-purple-400">inovatif</strong>.
                 Perjalanan saya di dunia teknologi dimulai dari ketertarikan
                 mendalam pada bagaimana kode dapat mengubah ide menjadi

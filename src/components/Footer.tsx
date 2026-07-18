@@ -12,8 +12,9 @@ const Footer = () => {
               Adi Setyo Wenang
             </h3>
             <p className="text-gray-400 leading-relaxed">
-              Mahasiswa Teknik Informatika yang bersemangat menciptakan solusi
-              perangkat lunak inovatif dan mengeksplorasi teknologi terkini.
+              Fresh Graduate Teknik Informatika yang bersemangat menciptakan
+              solusi perangkat lunak inovatif dan mengeksplorasi teknologi
+              terkini.
             </p>
           </div>
 

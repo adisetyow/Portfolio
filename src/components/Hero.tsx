@@ -60,7 +60,7 @@ const Hero = () => {
               </h1>
               <TypeAnimation
                 sequence={[
-                  "Mahasiswa Teknik Informatika",
+                  "Fresh Graduate Teknik Informatika",
                   1000,
                   "Software Engineer",
                   1000,
@@ -81,7 +81,7 @@ const Hero = () => {
             </div>
 
             <p className="text-base md:text-lg lg:text-xl text-gray-400 max-w-2xl mx-auto lg:mx-0 leading-relaxed">
-              Mahasiswa Teknik Informatika yang berfokus pada Software
+              Fresh Graduate Teknik Informatika yang berfokus pada Software
               Engineering dan pengembangan web. Terampil dalam membangun solusi
               digital yang efisien, dengan minat kuat untuk berkembang di bidang
               aplikasi mobile dan Artificial Intelligence (AI).
