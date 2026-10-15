@@ -13,26 +13,26 @@ const Experience = () => {
   const education = [
     {
       institution: "Universitas Kristen Satya Wacana",
-      degree: "S1 Teknik Informatika",
+      degree: "Sarjana Teknik Informatika (S1)",
       specialization: "Fakultas Teknologi Informasi",
-      period: "2022 - Sekarang",
+      period: "2022 - 2026",
       location: "Salatiga, Indonesia",
       description:
-        "Fokus pada pengembangan perangkat lunak, struktur data, dan kecerdasan buatan. Aktif terlibat dalam proyek-proyek akademis dan pengembangan aplikasi mandiri.",
+        "Lulusan Teknik Informatika dengan fokus pada rekayasa perangkat lunak, pengembangan aplikasi web, dan kecerdasan buatan. Memiliki pengalaman mengembangkan aplikasi melalui proyek akademik dan kolaborasi tim.",
       achievements: [
-        "Mempertahankan IPK 3.62 / 4.00",
-        "Mengembangkan beberapa proyek full-stack sebagai bagian dari kurikulum",
-        "Aktif dalam kelompok studi pengembangan web dan mobile",
+        "Meraih IPK 3,70 / 4,00",
+        "Mengembangkan aplikasi full-stack melalui proyek akademik dan kolaboratif",
+        "Menerapkan konsep rekayasa perangkat lunak dalam perancangan dan pengembangan aplikasi",
       ],
     },
     {
       institution: "SMA Negeri 1 Tengaran",
-      degree: "Jurusan MIPA",
-      specialization: "Matematika & Ilmu Pengetahuan Alam",
+      degree: "Sekolah Menengah Atas",
+      specialization: "Matematika dan Ilmu Pengetahuan Alam (MIPA)",
       period: "2019 - 2022",
-      location: "Kab. Semarang, Indonesia",
+      location: "Kabupaten Semarang, Indonesia",
       description:
-        "Memberikan dasar yang kuat dalam matematika dan sains yang mendukung studi saya di bidang Teknik Informatika.",
+        "Membangun fondasi akademik dalam matematika dan ilmu pengetahuan alam yang mendukung kemampuan berpikir logis, analitis, dan pemecahan masalah.",
     },
   ];
 
@@ -150,7 +150,7 @@ const Experience = () => {
                                 {achievement}
                               </span>
                             </div>
-                          )
+                          ),
                         )}
                       </div>
                     )}
@@ -209,7 +209,7 @@ const Experience = () => {
                                 {achievement}
                               </span>
                             </div>
-                          )
+                          ),
                         )}
                       </div>
                     </div>

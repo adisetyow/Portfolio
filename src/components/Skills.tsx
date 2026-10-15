@@ -37,7 +37,7 @@ const Skills = () => {
       skills: [
         { name: "Git/GitHub", level: 58 },
         { name: "Docker", level: 45 },
-        { name: "AWS", level: 20 },
+        { name: "Google Colaboratory", level: 40 },
         { name: "MongoDB", level: 50 },
         { name: "PostgreSQL", level: 42 },
       ],

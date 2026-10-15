@@ -58,7 +58,9 @@ const Footer = () => {
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-purple-400 rounded-full mr-3"></div>
-                <span className="text-gray-400">Sedang menempuh studi</span>
+                <span className="text-gray-400">
+                  Internship at Kementerian Ketenagakerjaan RI
+                </span>
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-cyan-400 rounded-full mr-3"></div>
